@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    class Program
+    class course
     {
-        static void Main(string[] args)
-        {
 
 
 
 
-
-        }
     }
 }
